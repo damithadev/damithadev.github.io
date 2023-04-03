@@ -1,18 +1,36 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
 html {
     height: 100%;
     width: 100%;
- }
+  }
   
- .typing-text {
+.typing-text {
     text-align: center;
     padding-top: 100px;
     
- }
+}
   
- .typing-text p {
+.typing-text p {
     font-size: 3em;
     letter-spacing: 0.1em;
     font-family: 'Bebas Neue', cursive;
- }
-  
+
+}
+
+
+.heart {
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    padding-top: 400px;
+    position: static;
+    font-size: 1em;
+
+}
+
+@media (max-width: 500px)  {
+    .typing-text p {
+        font-size: 2em;
+    }
+}
