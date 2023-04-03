@@ -23,9 +23,12 @@ html {
 .heart {
     text-align: center;
     font-family: 'Roboto Condensed', sans-serif;
-    padding-top: 400px;
     position: static;
     font-size: 1em;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
 
 }
 
