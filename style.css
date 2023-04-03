@@ -1,0 +1,16 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .typing-text {
+    text-align: center;
+    padding-top: 100px;
+    
+  }
+  
+  .typing-text p {
+    font-size: 2em;
+    letter-spacing: 0.1em;
+  }
+  
