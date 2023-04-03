@@ -2,16 +2,17 @@
 html {
     height: 100%;
     width: 100%;
-  }
+ }
   
-  .typing-text {
+ .typing-text {
     text-align: center;
     padding-top: 100px;
     
-  }
+ }
   
-  .typing-text p {
-    font-size: 2em;
+ .typing-text p {
+    font-size: 3em;
     letter-spacing: 0.1em;
-  }
+    font-family: 'Bebas Neue', cursive;
+ }
   
